@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\AlgorithmSPE2\AlgorithmSPE2\bin\Debug\AlgorithmSPE2.exe.config
+E:\Visual Studio Projects\AlgorithmSPE2\AlgorithmSPE2\bin\Debug\AlgorithmSPE2.exe
+E:\Visual Studio Projects\AlgorithmSPE2\AlgorithmSPE2\bin\Debug\AlgorithmSPE2.pdb
+E:\Visual Studio Projects\AlgorithmSPE2\AlgorithmSPE2\obj\Debug\AlgorithmSPE2.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\AlgorithmSPE2\AlgorithmSPE2\obj\Debug\AlgorithmSPE2.exe
+E:\Visual Studio Projects\AlgorithmSPE2\AlgorithmSPE2\obj\Debug\AlgorithmSPE2.pdb
